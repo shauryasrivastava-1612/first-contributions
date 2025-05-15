@@ -1,4 +1,5 @@
 # Contributors
+- [Shaurya Srivastava](https://github.com/shauryasrivastava-1612)
 - [Abhishek Prajapatt](https://github.com/abhishekprajapatt)
 - [Naheel]
 - [Ale Roses](https://github.com/aleroses)
